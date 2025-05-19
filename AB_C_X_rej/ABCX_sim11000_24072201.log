@@ -1,0 +1,137 @@
+  Activating project at `~/Developer/overdamped_to_underdamped_langevin_limits/AB_C_X`
+   Resolving package versions...
+  No Changes to `~/Developer/overdamped_to_underdamped_langevin_limits/AB_C_X/Project.toml`
+  No Changes to `~/Developer/overdamped_to_underdamped_langevin_limits/AB_C_X/Manifest.toml`
+   Resolving package versions...
+    Updating `~/Developer/overdamped_to_underdamped_langevin_limits/AB_C_X/Project.toml`
+  [336ed68f] + CSV v0.10.14
+    Updating `~/Developer/overdamped_to_underdamped_langevin_limits/AB_C_X/Manifest.toml`
+  [336ed68f] + CSV v0.10.14
+  [944b1d66] + CodecZlib v0.7.4
+  [34da2185] + Compat v4.15.0
+  [48062228] + FilePathsBase v0.9.21
+  [842dd82b] + InlineStrings v1.4.1
+  [69de0a69] + Parsers v2.8.1
+  [2dfb63ee] + PooledArrays v1.4.3
+  [91c51154] + SentinelArrays v1.4.3
+  [3bb67fe8] + TranscodingStreams v0.10.9
+  [ea10d353] + WeakRefStrings v1.4.2
+  [76eceee3] + WorkerUtilities v1.6.1
+  [b77e0a4c] + InteractiveUtils
+  [a63ad114] + Mmap
+  [8dfed614] + Test
+  [cf7118a7] + UUIDs
+  [83775a58] + Zlib_jll v1.2.13+1
+   Resolving package versions...
+    Updating `~/Developer/overdamped_to_underdamped_langevin_limits/AB_C_X/Project.toml`
+  [a93c6f00] + DataFrames v1.6.1
+    Updating `~/Developer/overdamped_to_underdamped_langevin_limits/AB_C_X/Manifest.toml`
+  [a8cc5b0e] + Crayons v4.1.1
+  [a93c6f00] + DataFrames v1.6.1
+  [864edb3b] + DataStructures v0.18.20
+  [41ab1584] + InvertedIndices v1.3.0
+  [b964fa9f] + LaTeXStrings v1.3.1
+  [e1d29d7a] + Missings v1.2.0
+  [08abe8d2] + PrettyTables v2.3.2
+  [189a3867] + Reexport v1.2.2
+  [a2af1166] + SortingAlgorithms v1.2.1
+  [892a3eda] + StringManipulation v0.3.4
+  [3fa0cd96] + REPL
+  [2f01184e] + SparseArrays v1.10.0
+  [10745b16] + Statistics v1.10.0
+  [bea87d4a] + SuiteSparse_jll v7.2.1+1
+   Resolving package versions...
+    Updating `~/Developer/overdamped_to_underdamped_langevin_limits/AB_C_X/Project.toml`
+  [31c24e10] + Distributions v0.25.109
+    Updating `~/Developer/overdamped_to_underdamped_langevin_limits/AB_C_X/Manifest.toml`
+  [66dad0bd] + AliasTables v1.1.3
+  [49dc2e85] + Calculus v0.5.1
+  [31c24e10] + Distributions v0.25.109
+  [ffbed154] + DocStringExtensions v0.9.3
+  [fa6b7ba4] + DualNumbers v0.6.8
+  [1a297f60] + FillArrays v1.11.0
+  [34004b35] + HypergeometricFunctions v0.3.23
+  [92d709cd] + IrrationalConstants v0.2.2
+  [692b3bcd] + JLLWrappers v1.5.0
+  [2ab3a3ac] + LogExpFunctions v0.3.28
+  [77ba4419] + NaNMath v1.0.2
+  [90014a1f] + PDMats v0.11.31
+  [43287f4e] + PtrArrays v1.2.0
+  [1fd47b50] + QuadGK v2.9.4
+  [79098fc4] + Rmath v0.7.1
+  [276daf66] + SpecialFunctions v2.4.0
+  [82ae8749] + StatsAPI v1.7.0
+  [2913bbd2] + StatsBase v0.34.3
+  [4c63d2b9] + StatsFuns v1.3.1
+  [efe28fd5] + OpenSpecFun_jll v0.5.5+0
+  [f50d1b31] + Rmath_jll v0.4.2+0
+  [0dad84c5] + ArgTools v1.1.1
+  [f43a241f] + Downloads v1.6.0
+  [7b1f6079] + FileWatching
+  [b27032c2] + LibCURL v0.6.4
+  [76f85450] + LibGit2
+  [ca575930] + NetworkOptions v1.2.0
+  [44cfe95a] + Pkg v1.10.0
+  [4607b0f0] + SuiteSparse
+  [a4e569a6] + Tar v1.10.0
+  [deac9b47] + LibCURL_jll v8.4.0+0
+  [e37daf67] + LibGit2_jll v1.6.4+0
+  [29816b5a] + LibSSH2_jll v1.11.0+1
+  [c8ffd9c3] + MbedTLS_jll v2.28.2+1
+  [14a3606d] + MozillaCACerts_jll v2023.1.10
+  [05823500] + OpenLibm_jll v0.8.1+2
+  [8e850ede] + nghttp2_jll v1.52.0+1
+  [3f19e933] + p7zip_jll v17.4.0+2
+   Resolving package versions...
+  No Changes to `~/Developer/overdamped_to_underdamped_langevin_limits/AB_C_X/Project.toml`
+  No Changes to `~/Developer/overdamped_to_underdamped_langevin_limits/AB_C_X/Manifest.toml`
+   Resolving package versions...
+  No Changes to `~/Developer/overdamped_to_underdamped_langevin_limits/AB_C_X/Project.toml`
+  No Changes to `~/Developer/overdamped_to_underdamped_langevin_limits/AB_C_X/Manifest.toml`
+   Resolving package versions...
+  No Changes to `~/Developer/overdamped_to_underdamped_langevin_limits/AB_C_X/Project.toml`
+  No Changes to `~/Developer/overdamped_to_underdamped_langevin_limits/AB_C_X/Manifest.toml`
+   Resolving package versions...
+  No Changes to `~/Developer/overdamped_to_underdamped_langevin_limits/AB_C_X/Project.toml`
+  No Changes to `~/Developer/overdamped_to_underdamped_langevin_limits/AB_C_X/Manifest.toml`
+Progress:   0%|                                         |  ETA: 4:52:01[KProgress:   0%|                                         |  ETA: 5:06:40[KProgress:   0%|                                         |  ETA: 4:56:15[KProgress:   0%|                                         |  ETA: 4:53:24[KProgress:   0%|                                         |  ETA: 4:47:17[KProgress:   0%|                                         |  ETA: 4:42:06[KProgress:   0%|                                         |  ETA: 4:35:28[KProgress:   0%|                                         |  ETA: 4:30:53[KProgress:   0%|                                         |  ETA: 4:29:40[KProgress:   0%|                                         |  ETA: 4:31:58[KProgress:   0%|                                         |  ETA: 4:34:20[KProgress:   0%|                                         |  ETA: 4:33:10[KProgress:   0%|                                         |  ETA: 4:35:08[KProgress:   0%|                                         |  ETA: 4:35:31[KProgress:   0%|                                         |  ETA: 4:36:48[KProgress:   0%|▏                                        |  ETA: 4:34:19[KProgress:   0%|▏                                        |  ETA: 4:33:49[KProgress:   0%|▏                                        |  ETA: 4:31:10[KProgress:   0%|▏                                        |  ETA: 4:31:55[KProgress:   0%|▏                                        |  ETA: 4:29:26[KProgress:   0%|▏                                        |  ETA: 4:32:07[KProgress:   0%|▏                                        |  ETA: 4:31:47[KProgress:   0%|▏                                        |  ETA: 4:33:21[KProgress:   0%|▏                                        |  ETA: 4:31:18[KProgress:   0%|▏                                        |  ETA: 4:32:17[KProgress:   0%|▏                                        |  ETA: 4:30:15[KProgress:   0%|▏                                        |  ETA: 4:30:07[KProgress:   0%|▏                                        |  ETA: 4:30:40[K
+[43749] signal (15): Terminated: 15
+in expression starting at /Users/c2yao/Developer/overdamped_to_underdamped_langevin_limits/AB_C_X/AB_C_X.jl:87
+* at ./float.jl:411 [inlined]
+update_state at /Users/c2yao/Developer/overdamped_to_underdamped_langevin_limits/AB_C_X/utils.jl:59
+unknown function (ip: 0x1688d437f)
+_jl_invoke at /Users/julia/.julia/scratchspaces/a66863c6-20e8-4ff4-8a62-49f30b1f605e/agent-cache/default-honeycrisp-XG3Q6T6R70.0/build/default-honeycrisp-XG3Q6T6R70-0/julialang/julia-release-1-dot-10/src/gf.c:0 [inlined]
+ijl_apply_generic at /Users/julia/.julia/scratchspaces/a66863c6-20e8-4ff4-8a62-49f30b1f605e/agent-cache/default-honeycrisp-XG3Q6T6R70.0/build/default-honeycrisp-XG3Q6T6R70-0/julialang/julia-release-1-dot-10/src/gf.c:3077
+macro expansion at /Users/c2yao/Developer/overdamped_to_underdamped_langevin_limits/AB_C_X/AB_C_X.jl:71 [inlined]
+macro expansion at /Users/c2yao/.julia/packages/ProgressMeter/dMfiC/src/ProgressMeter.jl:1010 [inlined]
+main at /Users/c2yao/Developer/overdamped_to_underdamped_langevin_limits/AB_C_X/AB_C_X.jl:67
+unknown function (ip: 0x1680948d7)
+_jl_invoke at /Users/julia/.julia/scratchspaces/a66863c6-20e8-4ff4-8a62-49f30b1f605e/agent-cache/default-honeycrisp-XG3Q6T6R70.0/build/default-honeycrisp-XG3Q6T6R70-0/julialang/julia-release-1-dot-10/src/gf.c:0 [inlined]
+ijl_apply_generic at /Users/julia/.julia/scratchspaces/a66863c6-20e8-4ff4-8a62-49f30b1f605e/agent-cache/default-honeycrisp-XG3Q6T6R70.0/build/default-honeycrisp-XG3Q6T6R70-0/julialang/julia-release-1-dot-10/src/gf.c:3077
+jl_apply at /Users/julia/.julia/scratchspaces/a66863c6-20e8-4ff4-8a62-49f30b1f605e/agent-cache/default-honeycrisp-XG3Q6T6R70.0/build/default-honeycrisp-XG3Q6T6R70-0/julialang/julia-release-1-dot-10/src/./julia.h:1982 [inlined]
+do_call at /Users/julia/.julia/scratchspaces/a66863c6-20e8-4ff4-8a62-49f30b1f605e/agent-cache/default-honeycrisp-XG3Q6T6R70.0/build/default-honeycrisp-XG3Q6T6R70-0/julialang/julia-release-1-dot-10/src/interpreter.c:126
+eval_body at /Users/julia/.julia/scratchspaces/a66863c6-20e8-4ff4-8a62-49f30b1f605e/agent-cache/default-honeycrisp-XG3Q6T6R70.0/build/default-honeycrisp-XG3Q6T6R70-0/julialang/julia-release-1-dot-10/src/interpreter.c:0
+jl_interpret_toplevel_thunk at /Users/julia/.julia/scratchspaces/a66863c6-20e8-4ff4-8a62-49f30b1f605e/agent-cache/default-honeycrisp-XG3Q6T6R70.0/build/default-honeycrisp-XG3Q6T6R70-0/julialang/julia-release-1-dot-10/src/interpreter.c:775
+jl_toplevel_eval_flex at /Users/julia/.julia/scratchspaces/a66863c6-20e8-4ff4-8a62-49f30b1f605e/agent-cache/default-honeycrisp-XG3Q6T6R70.0/build/default-honeycrisp-XG3Q6T6R70-0/julialang/julia-release-1-dot-10/src/toplevel.c:934
+jl_toplevel_eval_flex at /Users/julia/.julia/scratchspaces/a66863c6-20e8-4ff4-8a62-49f30b1f605e/agent-cache/default-honeycrisp-XG3Q6T6R70.0/build/default-honeycrisp-XG3Q6T6R70-0/julialang/julia-release-1-dot-10/src/toplevel.c:877
+ijl_toplevel_eval at /Users/julia/.julia/scratchspaces/a66863c6-20e8-4ff4-8a62-49f30b1f605e/agent-cache/default-honeycrisp-XG3Q6T6R70.0/build/default-honeycrisp-XG3Q6T6R70-0/julialang/julia-release-1-dot-10/src/toplevel.c:943 [inlined]
+ijl_toplevel_eval_in at /Users/julia/.julia/scratchspaces/a66863c6-20e8-4ff4-8a62-49f30b1f605e/agent-cache/default-honeycrisp-XG3Q6T6R70.0/build/default-honeycrisp-XG3Q6T6R70-0/julialang/julia-release-1-dot-10/src/toplevel.c:985
+eval at ./boot.jl:385 [inlined]
+include_string at ./loading.jl:2076
+_jl_invoke at /Users/julia/.julia/scratchspaces/a66863c6-20e8-4ff4-8a62-49f30b1f605e/agent-cache/default-honeycrisp-XG3Q6T6R70.0/build/default-honeycrisp-XG3Q6T6R70-0/julialang/julia-release-1-dot-10/src/gf.c:0 [inlined]
+ijl_apply_generic at /Users/julia/.julia/scratchspaces/a66863c6-20e8-4ff4-8a62-49f30b1f605e/agent-cache/default-honeycrisp-XG3Q6T6R70.0/build/default-honeycrisp-XG3Q6T6R70-0/julialang/julia-release-1-dot-10/src/gf.c:3077
+_include at ./loading.jl:2136
+include at ./Base.jl:495
+jfptr_include_46536.3 at /Users/c2yao/Applications/Julia-1.10.app/Contents/Resources/julia/lib/julia/sys.dylib (unknown line)
+_jl_invoke at /Users/julia/.julia/scratchspaces/a66863c6-20e8-4ff4-8a62-49f30b1f605e/agent-cache/default-honeycrisp-XG3Q6T6R70.0/build/default-honeycrisp-XG3Q6T6R70-0/julialang/julia-release-1-dot-10/src/gf.c:0 [inlined]
+ijl_apply_generic at /Users/julia/.julia/scratchspaces/a66863c6-20e8-4ff4-8a62-49f30b1f605e/agent-cache/default-honeycrisp-XG3Q6T6R70.0/build/default-honeycrisp-XG3Q6T6R70-0/julialang/julia-release-1-dot-10/src/gf.c:3077
+exec_options at ./client.jl:318
+_start at ./client.jl:552
+jfptr__start_82857.3 at /Users/c2yao/Applications/Julia-1.10.app/Contents/Resources/julia/lib/julia/sys.dylib (unknown line)
+_jl_invoke at /Users/julia/.julia/scratchspaces/a66863c6-20e8-4ff4-8a62-49f30b1f605e/agent-cache/default-honeycrisp-XG3Q6T6R70.0/build/default-honeycrisp-XG3Q6T6R70-0/julialang/julia-release-1-dot-10/src/gf.c:0 [inlined]
+ijl_apply_generic at /Users/julia/.julia/scratchspaces/a66863c6-20e8-4ff4-8a62-49f30b1f605e/agent-cache/default-honeycrisp-XG3Q6T6R70.0/build/default-honeycrisp-XG3Q6T6R70-0/julialang/julia-release-1-dot-10/src/gf.c:3077
+jl_apply at /Users/julia/.julia/scratchspaces/a66863c6-20e8-4ff4-8a62-49f30b1f605e/agent-cache/default-honeycrisp-XG3Q6T6R70.0/build/default-honeycrisp-XG3Q6T6R70-0/julialang/julia-release-1-dot-10/src/./julia.h:1982 [inlined]
+true_main at /Users/julia/.julia/scratchspaces/a66863c6-20e8-4ff4-8a62-49f30b1f605e/agent-cache/default-honeycrisp-XG3Q6T6R70.0/build/default-honeycrisp-XG3Q6T6R70-0/julialang/julia-release-1-dot-10/src/jlapi.c:582
+jl_repl_entrypoint at /Users/julia/.julia/scratchspaces/a66863c6-20e8-4ff4-8a62-49f30b1f605e/agent-cache/default-honeycrisp-XG3Q6T6R70.0/build/default-honeycrisp-XG3Q6T6R70-0/julialang/julia-release-1-dot-10/src/jlapi.c:731
+unknown function (ip: 0x0)
+Allocations: 1494408652 (Pool: 1494373671; Big: 34981); GC: 1059
