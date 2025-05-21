@@ -1,1 +1,1 @@
-# reactive-langevin-dynamics
+# ReactLD.jl
