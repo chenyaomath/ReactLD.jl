@@ -1,6 +1,18 @@
 # ReactLD.jl
 
-This Julia package aims at performing stochastic simulation algorithm (SSA) of particle-based **reactive Brownian and Langevine dynamics**.
+This Julia project aims at performing stochastic simulation algorithm (SSA) of particle-based **reactive Brownian and Langevine dynamics**. 
+
+In the project, we focus on the fundamental reaction A + B ⇌ C and the method can be extended to any abstract reactions (you can refer to our paper below).
+
+We consider random particles with species A, B or C moving randomly following the Brownian Dynamics:
+
+$\dot{X}_t = \sqrt{2D} \dot{W}_t$
+
+and Langevine Dynamis:
+
+$\dot{X}_t = V_t, \quad \dot{V}_t = -\beta V_t + \beta \sqrt{2D} \dot{W}_t$,
+
+where $X_t$ and $V_t$ are positions and velocities of particles, $\D$ is diffusion coefficient, and $\beta$ is the scaled friction constant.
 
 ## Support and citation
 If you use this package for your work, we ask that you cite the following paper. Open source development as part of academic research strongly depends on this. Please also consider starring this repository if you like our work, this will help us to secure funding in the future.
