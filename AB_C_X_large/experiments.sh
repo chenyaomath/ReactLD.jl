@@ -6,7 +6,7 @@ run_julia() {
     local time_step=$2
     local date=$3
 
-    nohup julia AB_C_X.jl \
+    nohup julia ReactBD.jl \
         --num_sim $num_sim \
         --time_step $time_step \
         > logs/ABCX_sim${num_sim}_time_step${time_step}_$date.log \
@@ -27,4 +27,4 @@ export JULIA_NUM_THREADS=14
 cur_time=$(date +"%y%m%d%H")
 run_julia 500 1.0e-6 $cur_time
 
-echo "AB_C_X scripts started!"
+echo "experiment scripts started!"

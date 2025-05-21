@@ -1,5 +1,5 @@
 using Pkg
-Pkg.activate(".")
+Pkg.activate("env")
 
 Pkg.add("ArgParse")
 Pkg.add("CSV")
@@ -89,5 +89,5 @@ if abspath(PROGRAM_FILE) == @__FILE__
 end
 
 # command line:
-# nohup julia AB_C_X.jl --num_sim 11000  > ABCX_sim11000_24072201.log 2>&1 &
+# nohup julia ReactBD.jl --num_sim 11000  > ABCX_sim11000_24072201.log 2>&1 &
 # tail -n 50 -f ABCX_sim11000_24072201.log
