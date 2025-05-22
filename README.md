@@ -30,7 +30,7 @@ nohup JULIA_NUM_THREADS=5 julia ReactLD.jl --num_sim 11000 --beta 1.0e19 --time_
 
 | ![](https://github.com/chenyaomath/ReactLD.jl/blob/main/AB_C_V_large/present/main_single_particle.png) | ![](https://github.com/chenyaomath/ReactLD.jl/blob/main/AB_C_V_large/present/loss_single_particle.png) |
 |:-------------:|:-------------:|
-| [Convergence of Reactive LDs to BDs] | [Log-error between Reactive LDs and BDs as β → ∞] |
+| Convergence of Reactive LDs to BDs | Error between Reactive LDs and BDs as β → ∞ |
 
 ## Support and citation
 If you use this package for your work, we ask that you cite the following paper. Open source development as part of academic research strongly depends on this. Please also consider starring this repository if you like our work, this will help us to secure funding in the future.
