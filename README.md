@@ -28,7 +28,7 @@ nohup JULIA_NUM_THREADS=5 julia ReactLD.jl --num_sim 11000 --beta 1.0e19 --time_
 
 ## Main Results
 
-| ![](https://bifurcationkit.github.io/BifurcationKitDocs.jl/dev/tutorials/BDSH1d.png)    |  ![](https://bifurcationkit.github.io/BifurcationKitDocs.jl/dev/tutorials/mittlemannBD-1.png) |
+| ![](https://github.com/chenyaomath/ReactLD.jl/blob/main/AB_C_V_large/present/main_single_particle.png) | ![](https://github.com/chenyaomath/ReactLD.jl/blob/main/AB_C_V_large/present/loss_single_particle.png) |
 |:-------------:|:-------------:|
 | [Automatic Bif. Diagram in 1D Swift Hohenberg](https://bifurcationkit.github.io/BifurcationKitDocs.jl/dev/tutorials/Swift-Hohenberg1d/#d-Swift-Hohenberg-equation-(Automatic)) |  [Automatic Bif. Diagram in 2D Bratu](https://bifurcationkit.github.io/BifurcationKitDocs.jl/dev/tutorials/mittelmannAuto/#Automatic-diagram-of-2d-Bratu–Gelfand-problem-(Intermediate)) |
 
