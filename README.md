@@ -16,9 +16,9 @@ where $X_t$ and $V_t$ are positions and velocities of particles, $D$ is diffusio
 
 ## Quick Start
 
-The folder AB_C_V_large and AB_C_V_small contains code for simulation of particles following reaction A + B ⇌ C with Langevine Dynamics in a large/small domain
+The folder AB_C_V_large and AB_C_V_small contains code for simulation of particles following reaction A + B ⇌ C with Langevine Dynamics (LDs) in a large/small domain
 
-The folder AB_C_X_large and AB_C_X_small contains code for simulation of particles following reaction A + B ⇌ C with Brownian Dynamics in a large/small domain.
+The folder AB_C_X_large and AB_C_X_small contains code for simulation of particles following reaction A + B ⇌ C with Brownian Dynamics (BDs) in a large/small domain.
 
 You can repeat the simulation in each case by running the following command in your terminal:
 
@@ -30,7 +30,7 @@ nohup JULIA_NUM_THREADS=5 julia ReactLD.jl --num_sim 11000 --beta 1.0e19 --time_
 
 | ![](https://github.com/chenyaomath/ReactLD.jl/blob/main/AB_C_V_large/present/main_single_particle.png) | ![](https://github.com/chenyaomath/ReactLD.jl/blob/main/AB_C_V_large/present/loss_single_particle.png) |
 |:-------------:|:-------------:|
-| [Automatic Bif. Diagram in 1D Swift Hohenberg](https://bifurcationkit.github.io/BifurcationKitDocs.jl/dev/tutorials/Swift-Hohenberg1d/#d-Swift-Hohenberg-equation-(Automatic)) |  [Automatic Bif. Diagram in 2D Bratu](https://bifurcationkit.github.io/BifurcationKitDocs.jl/dev/tutorials/mittelmannAuto/#Automatic-diagram-of-2d-Bratu–Gelfand-problem-(Intermediate)) |
+| [Convergence of Reactive LDs to BDs] | [Log-error between Reactive LDs and BDs as β → ∞] |
 
 ## Support and citation
 If you use this package for your work, we ask that you cite the following paper. Open source development as part of academic research strongly depends on this. Please also consider starring this repository if you like our work, this will help us to secure funding in the future.
