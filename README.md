@@ -26,6 +26,10 @@ You can repeat the simulation in each case by running the following command in y
 nohup JULIA_NUM_THREADS=5 julia ReactLD.jl --num_sim 11000 --beta 1.0e19 --time_step 1.0e-7 > ABCV_sim11000_beta1.0e19_time_step1.0e-7_24072210.log 2>&1 &
 ```
 
+## Main Results
+
+
+
 ## Support and citation
 If you use this package for your work, we ask that you cite the following paper. Open source development as part of academic research strongly depends on this. Please also consider starring this repository if you like our work, this will help us to secure funding in the future.
 
