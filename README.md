@@ -6,10 +6,10 @@ This project focuses on the fundamental reversible reaction **A + B ⇌ C** but 
 
 We consider randomly diffusing particles of species A, B, or C that evolve according to either:
 
-**Brownian Dynamics (BDs):**
+- **Brownian Dynamics (BDs):**
 $$\dot{X}_t = \sqrt{2D} \dot{W}_t$$
 
-**Langevine Dynamics (LDs):**
+- **Langevine Dynamics (LDs):**
 $$\dot{X}_t = V_t, \quad \dot{V}_t = -\beta V_t + \beta \sqrt{2D} \dot{W}_t,$$
 
 where $X_t$ and $V_t$ denote positions and velocities of particles, $D$ is diffusion coefficient, and $\beta$ is the scaled friction constant.
