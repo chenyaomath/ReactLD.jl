@@ -20,13 +20,13 @@ where $X_t$ and $V_t$ denote positions and velocities of particles, $D$ is diffu
 - Julia (v1.0 or later) installed on your system.
 - Git installed.
 
-1. Clone the Repository
+1. Clone the repository
 ```zsh
 git clone https://github.com/chenyaomath/ReactLD.jl.git
 cd ReactLD.jl
 ```
 
-2. Install the Package in Julia
+2. Install the packages in Julia
 ```zsh
 cd env
 julia setup.jl
