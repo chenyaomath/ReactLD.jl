@@ -14,6 +14,24 @@ $$\dot{X}_t = V_t, \quad \dot{V}_t = -\beta V_t + \beta \sqrt{2D} \dot{W}_t,$$
 
 where $X_t$ and $V_t$ denote positions and velocities of particles, $D$ is diffusion coefficient, and $\beta$ is the scaled friction constant.
 
+## Installation
+
+**Prerequisites**
+- Julia (v1.0 or later) installed on your system.
+- Git installed.
+
+1. Clone the Repository
+```zsh
+git clone https://github.com/chenyaomath/ReactLD.jl.git
+cd ReactLD.jl
+```
+
+2. Install the Package in Julia
+```zsh
+cd env
+julia setup.jl
+```
+
 ## Quick Start
 
 The repository contains several subfolders for running simulations of the A + B ⇌ C reaction:
